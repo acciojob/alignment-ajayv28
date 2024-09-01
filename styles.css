@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+.leftAlign{
+	text-align:left;
+}
+.rightAlign{
+	text-align:right;
+}
+.centerAlign{
+	text-align:center;
+}
+.middle td,table{
+	border:1px solid black;
+	width:100%;
+}
+
+.middle td, tr{
+	width:15%;
+}
+
+.colorGreen{
+	background-color:green;
+}
+
+.colorBlue{
+	background-color:blue;
+}
