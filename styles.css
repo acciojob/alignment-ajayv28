@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
-.leftAlign{
+.left{
 	text-align:left;
 }
-.rightAlign{
+.right{
 	text-align:right;
 }
-.centerAlign{
+.center{
 	text-align:center;
 }
 .middle td,table{
